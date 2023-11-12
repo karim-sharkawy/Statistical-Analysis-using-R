@@ -1,6 +1,6 @@
 # My-Stats350-Work
 
-This repository includes all of the code I used during my Statistics 350 Course at Purdue. We used R Studio
+This repository includes all of the code using R Studio in Introduction to Statistics Course
 
 # Details about individual files:
 1. Final project: Most of the code for the final project is at the end
